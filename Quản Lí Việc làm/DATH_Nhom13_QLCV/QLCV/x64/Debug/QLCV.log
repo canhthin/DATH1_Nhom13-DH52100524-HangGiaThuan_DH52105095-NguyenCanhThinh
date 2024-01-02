@@ -1,0 +1,4 @@
+﻿  QuanLyLichLam_settings.cpp
+C:\Users\HP ELITEBOOK 840 G6\OneDrive\Máy tính\Báo cáo và source code mới\DATH_Nhom13_QLCV\QLCV\QuanLyLichLam_settings.cpp(479,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP ELITEBOOK 840 G6\OneDrive\Máy tính\Báo cáo và source code mới\DATH_Nhom13_QLCV\QLCV\QuanLyLichLam_settings.cpp(495,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  QLCV.vcxproj -> C:\Users\HP ELITEBOOK 840 G6\OneDrive\Máy tính\Báo cáo và source code mới\DATH_Nhom13_QLCV\x64\Debug\QLCV.exe

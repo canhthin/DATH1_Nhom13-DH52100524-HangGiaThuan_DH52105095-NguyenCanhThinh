@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\hanji\source\repos\QLCV\QLCV\main.cpp(8,10): warning C4101: 'ngayKetThuc': unreferenced local variable
+C:\Users\hanji\source\repos\QLCV\QLCV\main.cpp(9,13): warning C4101: 'trangthai': unreferenced local variable
+C:\Users\hanji\source\repos\QLCV\QLCV\main.cpp(9,9): warning C4101: 'id': unreferenced local variable
+  settings.cpp
+C:\Users\hanji\source\repos\QLCV\QLCV\settings.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanji\source\repos\QLCV\QLCV\settings.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanji\source\repos\QLCV\QLCV\settings.cpp(153,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanji\source\repos\QLCV\QLCV\settings.cpp(158,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanji\source\repos\QLCV\QLCV\settings.cpp(230,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanji\source\repos\QLCV\QLCV\settings.cpp(342,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  QLCV.vcxproj -> C:\Users\hanji\source\repos\QLCV\Debug\QLCV.exe
