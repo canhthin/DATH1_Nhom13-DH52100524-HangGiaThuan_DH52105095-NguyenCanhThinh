@@ -1,0 +1,6 @@
+1: Nhập link github 
+2: https://github.com/canhthin/do-an-tin-hoc.git
+3: Bấm nút: <> Code
+4: chọn download zip
+5: giải nén file source code 
+6: mở source code .
